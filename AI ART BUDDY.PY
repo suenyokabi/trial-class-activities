@@ -2,7 +2,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-api_token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6IjUxNTg0MWVkNDRjODg3ZjlhYWJkYjY5ZTQ3YTRmYzlkIiwiY3JlYXRlZF9hdCI6IjIwMjUtMDQtMjRUMTM6NDU6MjguNjczMDg5In0.nFGKaVQm1Emc3rd567vMzDX4dWrCeRIdB17oFqO0kz0"
+api_token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6IjExZWM5NTM5ZDRmZjM4MzZjYWUzYTY0NTY4YzQ5YTEyIiwiY3JlYXRlZF9hdCI6IjIwMjUtMDctMjRUMTU6NTg6NDkuNjk1MDY0In0.HwTW_VG_UHdoOwwfcSY9pKqXyAmw12vy2fuCa94YMDU"
 
 print("Welcome to AI Art Buddy🖼️")
 user_input = input("Enter a description for the image: ")
